@@ -29,7 +29,7 @@ aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj0ydTNpSXdKUjhhWSZhYl9jaGFubmVsPWVkdS1j
 ## Google Hacking (by.NISRA)
 ![image](https://hackmd.io/_uploads/rkgG6fAra.png)
 //site:.cn filetype:xlsx 帳號 密碼 (google) \
-//site:.system8.(org).edu.tw intext:"管理" (google)
+//site:.system8.(org).edu.tw intext:"管理" (google)\
 ![image](https://hackmd.io/_uploads/ry_j0zAHa.png)
 ![image](https://hackmd.io/_uploads/Hy3n0G0Ha.png)
 ![image](https://hackmd.io/_uploads/r1D0AMASp.png)
